@@ -108,7 +108,7 @@ ol,
 ul,
 dl {
   margin-top: 0;
-  margin-bottom: 1rem;
+  /* margin-bottom: 1rem; */
 }
 
 ol ol,
@@ -3933,7 +3933,7 @@ tbody.collapse.show {
   display: block;
 }
 
-.navbar {
+/* .navbar {
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -4423,7 +4423,7 @@ tbody.collapse.show {
 
 .navbar-dark .navbar-text a:hover, .navbar-dark .navbar-text a:focus {
   color: #fff;
-}
+} */
 
 .card {
   position: relative;
@@ -8954,9 +8954,9 @@ a.text-dark:hover, a.text-dark:focus {
   .container {
     min-width: 992px !important;
   }
-  .navbar {
+  /* .navbar {
     display: none;
-  }
+  } */
   .badge {
     border: 1px solid #000;
   }
