@@ -182,6 +182,10 @@ body{
     color: #000;
 }
 
+.brand-logo {
+    width: 48px !important;
+}
+
 /* Media Queries */
 @media screen and (min-width: 992px){
     .navbar{

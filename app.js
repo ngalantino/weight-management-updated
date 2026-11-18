@@ -15,8 +15,7 @@ app.use(express.static('public'));
 // Define a route to render your home template
 app.get('/', (req, res) => {
     res.render('home', {
-        title: 'Home Page',
-        heading: 'Hello World!'
+        title: 'LoCicero Health | Weight Management and Metabolic Health Center | Weight Loss Tampa, Florida',
     });
 });
 
